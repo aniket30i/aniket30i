@@ -3,7 +3,7 @@ I am a Software Engineer by profession and a Web developer in making.
 
 <img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif">
 
-<img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniketsaha1m) 
@@ -15,7 +15,6 @@ I am a Software Engineer by profession and a Web developer in making.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif">
 
 
 
