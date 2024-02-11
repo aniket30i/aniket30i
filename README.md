@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about coding and dedicated to creating wonderful website projects using modern web development methodologies. Graduated from Sister Nivedita University with a degree in Computer Science and Engineering. Aspiring to become a great software developer, proficient in both front-end and back-end development. A tech enthusiast always eager to explore the latest advancements in the field. Let's build amazing software together!"
+Passionate about coding and dedicated to creating wonderful website projects using modern web development methodologies. Graduated from Sister Nivedita University with a degree in Computer Science and Engineering. Aspiring to become a great software developer/Analyst, proficient in both front-end and back-end development with a analytical mind. A tech enthusiast always eager to explore the latest advancements in the field. Let's build amazing software together!"
 
 <img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif">
 
